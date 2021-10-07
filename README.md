@@ -12,12 +12,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Frozen-py&show_icons=true&theme=highcontrast" alt="Frozen-py" /></p>
 
- <details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Frozen.py)
-
-</details>
 
 
 
