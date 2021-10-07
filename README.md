@@ -1,8 +1,6 @@
 <h2 align="center">HII......😋<br>I'm Frozen-py😇</h1>
 
-![Ry6p](https://user-images.githubusercontent.com/88402272/136350393-f32ca3c2-6430-407a-a7d5-1ffa41d9f913.gif) ,![78KH](https://user-images.githubusercontent.com/88402272/136411860-2062ef24-5c6d-4816-99a9-47eb1ee80c70.gif)
-
-
+![aaa](https://user-images.githubusercontent.com/88402272/136412302-97f5d99d-a275-4557-b4ec-f364b88251cb.jpg)
 
 
   <h3 align="left">My fv Language : </h3>
