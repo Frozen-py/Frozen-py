@@ -3,7 +3,7 @@
 
  <img src="https://github.com/Frozen-py/Frozen-py/blob/main/aaa.jpg" width="500" height="400">,<img src="https://github.com/Frozen-py/Frozen-py/blob/main/78KH.gif" width="400" height="400">
 <div align="center">
-  <img src="https://github.com/Frozen-py/Frozen-py/blob/main/78KH.gif" width="400" height="400">
+
 
 
 
