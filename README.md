@@ -1,7 +1,5 @@
 <h2 align="center">HII......😋<br>I'm Frozen-py😇</h1>
 
-![image](https://user-images.githubusercontent.com/88402272/136348598-8cc965c8-7e4c-439b-9244-e10094ba4a3d.png)
-
 ![78KH](https://user-images.githubusercontent.com/88402272/136349270-5674b2de-39ee-4cb1-897f-5ad77ccf4afb.gif)
 
 
