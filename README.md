@@ -4,7 +4,7 @@
  <img src="https://github.com/Frozen-py/Frozen-py/blob/main/aaa.jpg" width="400" height="400"><img src="https://github.com/Frozen-py/Frozen-py/blob/main/Ry6p.gif" width="400" height="400">
 
   <h3 align="left">My fv Language : </h3>
-</a>  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/py🌀thon-original.svg" alt="python" width="90" height="90"/> </a>
+</a>  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="90" height="90"/> </a>
 <h4><b>Python<b></h4>
 </div>
 
