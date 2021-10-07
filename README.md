@@ -1,6 +1,6 @@
 <h2 align="center">HII......😋<br>I'm Frozen-py😇</h2>
 
-< ![aaa](https://user-images.githubusercontent.com/88402272/136414980-fdbbe058-5244-41d8-824e-c602abcdab37.jpg) width="300" height="300">
+<align="center">![aaa](https://user-images.githubusercontent.com/88402272/136416444-a41b7c31-23bc-4761-986a-5aa8c0fff93e.jpg)
 
 
 ![Ry6p](https://user-images.githubusercontent.com/88402272/136350393-f32ca3c2-6430-407a-a7d5-1ffa41d9f913.gif) 
