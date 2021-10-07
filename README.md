@@ -1,7 +1,7 @@
 <h2 align="center">HII......😋<br>I'm Frozen-py😇</h2>
 
 <div align="center">
-  <img src="https://github.com/Frozen-py/Frozen-py/blob/main/aaa.jpg" width="400" height="400">
+  <img src="https://github.com/Frozen-py/Frozen-py/blob/main/aaa.jpg" width="500" height="400">
 
 
 ![Ry6p](https://user-images.githubusercontent.com/88402272/136350393-f32ca3c2-6430-407a-a7d5-1ffa41d9f913.gif) 
