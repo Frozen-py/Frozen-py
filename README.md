@@ -1,7 +1,5 @@
 <h1 align="center">💎Hey..<br>I'm Frozen-py : )</h1>
-<p align="center">
-  <a href="https://github.com/Frozen-py">
-    <img src="https://komarev.com/ghpvc/?username=Frozen-py&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
+
 
 <div align="center">
  <img src="https://github.com/Frozen-py/Frozen-py/blob/main/aaa.jpg" width="400" height="400"><img src="https://github.com/Frozen-py/Frozen-py/blob/main/Ry6p.gif" width="400" height="400">
@@ -17,6 +15,11 @@
 
  <h3><bold>contact me on,</h3>
   
-<a href="https://www.facebook.com/profile.php?id=100070755980073" rel="nofollow"><img align="left" alt="codeSTACKr | Facebook" width="55px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" style="max-width: 100%;"></a>
+<a href="https://www.facebook.com/profile.php?id=100070755980073" rel="nofollow"><img align="left" alt="codeSTACKr | Facebook" width="55px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" style="max-width: 100%;"></a><br>
 
+<b>GitHub Activity (Public Data)</b>
+
+![Metrics](https://metrics.lecoq.io/Frozen-py?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
+
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=Frozen-py&repo=clock.py)](https://github.com/Frozen-py/clock.py)
 
