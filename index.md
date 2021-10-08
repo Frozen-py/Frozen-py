@@ -1,3 +1,9 @@
-<h3 style="background-color:black;">
-    <h1 style="color:orange;"><h1 align="center"> Frozen-py : )</h1></h3>
+<details>
+    <summary><b>About Me </b></summary><br/>
+Hi, my name is sandupama......💎<br>
+I am 15 years old...💎<br>
+From colombo....💎<br>
+thank you.......💎<br.
+
+</details>
     
