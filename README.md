@@ -12,6 +12,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Frozen-py&show_icons=true&theme=highcontrast" alt="Frozen-py" /></p>
 
-<a href="https://www.facebook.com/profile.php?id=100070755980073" rel="nofollow"><img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" style="max-width: 100%;"></a>
+ <details>
+    <summary><b>follow me, : ✔</b></summary><br/>
+  
+<a href="https://www.facebook.com/profile.php?id=100070755980073" rel="nofollow"><img align="left" alt="codeSTACKr | Facebook" width="55px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" style="max-width: 100%;"></a>
 
 
