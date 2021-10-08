@@ -23,3 +23,4 @@
 
 [![News](https://github-readme-stats.vercel.app/api/pin/?username=Frozen-py&repo=clock.py)](https://github.com/Frozen-py/clock.py)
 
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=Frozen-py&repo=IDE-)](https://github.com/Frozen-py/IDE-)
