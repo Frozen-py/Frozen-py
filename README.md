@@ -16,11 +16,4 @@
  <h3><bold>contact me on,</h3>
   
 <a href="https://www.facebook.com/profile.php?id=100070755980073" rel="nofollow"><img align="left" alt="codeSTACKr | Facebook" width="55px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" style="max-width: 100%;"></a><br>
-<details>
-    <summary><b>GitHub Activity (Public Data)</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/Frozen-py?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
-
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=Frozen-py&repo=clock.py)](https://github.com/Frozen-py/clock.py)
-
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=Frozen-py&repo=IDE-)](https://github.com/Frozen-py/IDE-)
