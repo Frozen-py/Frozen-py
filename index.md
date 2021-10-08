@@ -1,3 +1,3 @@
 ## Frozen-py
 
-<h3 style="color:orange;">HTML Colors</h3>
+<h3 style="color:blue;">HTML Colors</h3>
