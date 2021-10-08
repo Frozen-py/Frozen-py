@@ -1,4 +1,7 @@
 <h1 align="center">💎Hey..<br>I'm Frozen-py : )</h1>
+<p align="center">
+  <a href="https://github.com/Frozen-py">
+    <img src="https://komarev.com/ghpvc/?username=Frozen-py&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
 
 <div align="center">
  <img src="https://github.com/Frozen-py/Frozen-py/blob/main/aaa.jpg" width="400" height="400"><img src="https://github.com/Frozen-py/Frozen-py/blob/main/Ry6p.gif" width="400" height="400">
