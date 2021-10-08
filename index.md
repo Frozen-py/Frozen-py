@@ -1,7 +1,5 @@
 ## Frozen-py 
 
-<div align="center">
- <img src="https://github.com/Frozen-py/Frozen-py/blob/main/aaa.jpg" width="400" height="400"><img src="https://github.com/Frozen-py/Frozen-py/blob/main/Ry6p.gif" width="400" height="400">
 
 You can use the [editor on GitHub](https://github.com/Frozen-py/Frozen-py/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
