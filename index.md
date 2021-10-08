@@ -1,11 +1,4 @@
 ## Frozen-py
-<h3 style="background-color:yellow;"></h3>
-<h2 style="color:blue;">  
-<details>
-    <summary><b>About Me ☄️</b></summary><br/>
-Hi, my name is sandupama : ) 
-
-I am 15 yeas old.<br>From colombo
-  Thank you, 💎🎓</h3>
-<h3 style="color:blue;"></h3>
-    </h3>
+<h3 style="background-color:black;">
+    <div align="center">
+ <img src="https://github.com/Frozen-py/Frozen-py/blob/main/aaa.jpg" width="400" height="400"><img src="https://github.com/Frozen-py/Frozen-py/blob/main/Ry6p.gif" width="400" height="400">
