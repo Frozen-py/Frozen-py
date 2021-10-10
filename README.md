@@ -15,5 +15,6 @@
 
  <h3><bold>contact me on,</h3>
   
-<a href="https://www.facebook.com/profile.php?id=100070755980073" rel="nofollow"><img align="left" alt="codeSTACKr | Facebook" width="55px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" style="max-width: 100%;"></a><br>
+<a href="https://www.facebook.com/profile.php?id=100070755980073" rel="nofollow"><img align="left" alt="codeSTACKr | Facebook" width="55px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" style="max-width: 100%;"></a>,<a href="eziox038@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" alt="Thiccy" height="50" width="60" /></a>
+ 
 
